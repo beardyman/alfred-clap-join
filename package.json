@@ -28,7 +28,6 @@
     "alfy"
   ],
   "dependencies": {
-    "alfred-loremipsum": "^1.1.0",
     "alfy": "^0.9.1",
     "clap-join": "^1.0.0"
   },
