@@ -1,0 +1,40 @@
+{
+  "name": "alfred-clap-join",
+  "version": "0.1.0",
+  "description": "Wraps and joins any phrase given to it with the clap emoji.",
+  "license": "MIT",
+  "repository": "beardyman/alfred-clap-join",
+  "author": {
+    "name": "Beardyman",
+    "email": "therealbeardyman@gmail.com",
+    "url": "undefined"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfred-loremipsum": "^1.1.0",
+    "alfy": "^0.9.1",
+    "clap-join": "^1.0.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.4.0",
+    "ava": "^0.18.0",
+    "xo": "^0.17.0"
+  }
+}
