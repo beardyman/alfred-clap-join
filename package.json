@@ -1,6 +1,6 @@
 {
   "name": "alfred-clap-join",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Wraps and joins any phrase given to it with the clap emoji.",
   "license": "MIT",
   "repository": "beardyman/alfred-clap-join",
