@@ -1,4 +1,4 @@
-# alfred-clap-join-alfred [![Build Status](https://travis-ci.org/beardyman/alfred-clap-join-alfred.svg?branch=master)](https://travis-ci.org/beardyman/alfred-clap-join-alfred)
+# alfred-clap-join [![Build Status](https://travis-ci.org/beardyman/alfred-clap-join-alfred.svg?branch=master)](https://travis-ci.org/beardyman/alfred-clap-join-alfred)
 
 > Wraps and joins any phrase given to it with 👏 emoji.
 
