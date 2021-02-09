@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "alfy": "^0.10.0",
-    "clap-join": "^1.0.1"
+    "clap-join": "^2.0.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.0",
