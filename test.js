@@ -7,8 +7,8 @@ test('yourself', async t => {
 
 	t.deepEqual(result, [
 		{
-			title: '👏What👏',
-			arg: '👏What👏',
+			title: 'What👏',
+			arg: 'What👏',
 			subtitle: 'Press enter to copy'
 		}
 	]);
